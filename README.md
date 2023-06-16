@@ -3,7 +3,7 @@ Link : https://atha2810.github.io/CashTrack.github.io/<br>
 <p>A personal budgeting web App using HTML , CSS ,Javascript
 <br>
 <h3>All Income and Expense Entries</h3>
-![Alt Text](./Screenshot 2023-05-16 220754.png)
+<img src"./Screenshot 2023-05-16 220754.png">
 <h3>Expense only Section</h3>
 ![Alt Text](./Screenshot 2023-05-16 220754.png)
 
