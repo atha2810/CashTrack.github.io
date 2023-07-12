@@ -7,7 +7,7 @@
 ## Website is Live : [https://atha2810.github.io/CashTrack.github.io/](https://atha2810.github.io/CashTrack.github.io/)
 
 # Screenshots
-![screenshot](https://drive.google.com/file/d/1zCFI7lDzK2RqZIEODRuOQ2lFJ9jH4yF1/view?usp=drive_link)
+![screenshot](favicon-16x16.png)
 ![screenshot](https://drive.google.com/file/d/1G75IakNrtD5hkkK4hmBsFhp7O8mEaA76/view?usp=drive_link)
 ![screenshot](https://drive.google.com/file/d/1HqdGMGlXD5rCl0wVLi0VFTHNG5p9SzU0/view?usp=drive_link)
 
