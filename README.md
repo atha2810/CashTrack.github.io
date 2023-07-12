@@ -7,12 +7,9 @@
 ## Website is Live : [https://atha2810.github.io/CashTrack.github.io/](https://atha2810.github.io/CashTrack.github.io/)
 
 # Screenshots
-<h2>All Entries</h2>
-![screenshot](All.png)
-<h2>Expenses Entries</h2>
-![screenshot](Expenses.png)
-<h2>Income Entries</h2>
-![screenshot](Income.png)
+![All Entries](All.png)
+![Expenses Entries](Expenses.png)
+![Income Entries](Income.png)
 
 # Tech Stack
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
