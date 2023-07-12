@@ -7,6 +7,7 @@
 ## Website is Live : [https://atha2810.github.io/CashTrack.github.io/](https://atha2810.github.io/CashTrack.github.io/)
 
 # Screenshots
+<h2>All Entries</h2>
 ![All Entries](All.png)
 ![Expenses Entries](Expenses.png)
 ![Income Entries](Income.png)
