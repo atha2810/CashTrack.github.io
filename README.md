@@ -1,11 +1,18 @@
 # CashTrack<br>
-Link : https://atha2810.github.io/CashTrack.github.io/<br>
-<p>A personal budgeting web App using HTML , CSS ,Javascript
-<br>
-<h3>All Income and Expense Entries</h3>
-<img src"./Screenshot 2023-05-16 220754.png">
-<h3>Expense only Section</h3>
-![Alt Text](./Screenshot 2023-05-16 220754.png)
+<div align="center"><h1> CashTrack - Personal Budget Web App </h1> </div>
 
-<h3>Income only Section</h3>
-<img src="https://lh3.googleusercontent.com/Bk-NUYTTJYZPe4dReYVuxV6im5lNmjrG8S2CnncYi2CJUJZKKFP7LeLS_YtaYRS_wl3Gwp9xKsMIH4ZHuQeA_QYjh4dnf8EoL_dSdqDYWZMlAcTXct3quepb7hRZh7UPYFpcGd69c5dsFCYDstPwr-_6myxZmrGjtqHZSTZL2EadBMV6-B8TcyvN_hNy8G3ylEg7Xb8Ac2090kaRalDuV5vNiU08sfzaVgzDuU_l47ErDtw4TlfZ2_AIKs7DNrGw3AWI8QaB7Lk4sCgUdGS2QmGZRju6b9ssnAXAKkaDhuXfAVhKV_zmpX7C9HBQsgF-SZEggZLb7ooQaZ143SvldqJJN8SmDto9ipD_ZNOKBBPl4wDbHHiU0TkzcGJuP9qWuP0vuosoK-AaeGprfxJVBTTcK5q5WTRZMBBh5PjLKsoJrbNZNKjweUtp4tBQw0JRl674dFhiMMJV0llfNDjVEPir330t6c5m95dCkJmF6oGiOiz53swV_hhbmfQhmUN_HzXLQ51sirj3Dn6s5--xAhpHwS7NOL4i6DPHsWxwlAE9CkafuVN4Ht1JjhL_iJifoZu5SZGJNT-CnhtiZqlzwdOK9Gi0ozIKtn5gmGXgtSF1IzwwLu20varN2hGC0unIFnE97SjNfp0SKoDwdDqPenx8PLcBsupDZUcoV7RQhFZ-Fn9LXg2QHGe4tHrQt0mGHamhYnt6ZraQO1nxLP1U4SkzXLeSXKX8ydyBqxdgle4D5uHfNXJCznCmPrNYM5B4pDLi2QBgsiuFm09byeNuscuaBmyKf0XAb7z5iUEIKYV-7RlcFn2O8L3TZXNVYob4j8yLqHwao3iXWGks5wQ8s5Jv4hIGDP3Hm_e4ok9uTdNOYmQDEum1mbemzsQC3wFASr8bRtZYjc_6t_HI5J6m8Wc3cKzFmynTG__AO7sFST5G=w443-h932-s-no?authuser=0">
+# About
+• Developed a personal budgeting app using HTML, CSS, and vanilla JavaScript • Created an application with mobile and desktop compatibility that enables users to easily input income and expenses, and track their spending • Created a dynamic circular chart using HTML5 canvas and JavaScript, with functions to draw and update the chart with new data, displaying income to expense ratio • Demonstrated creativity and problem-solving skills by developing a unique and practical app that addresses a common need and demonstrate Software Development
+
+## Website is Live : [https://atha2810.github.io/CashTrack.github.io/](https://atha2810.github.io/CashTrack.github.io/)
+
+# Screenshots
+![screenshot](https://drive.google.com/file/d/1zCFI7lDzK2RqZIEODRuOQ2lFJ9jH4yF1/view?usp=drive_link)
+![screenshot](https://drive.google.com/file/d/1G75IakNrtD5hkkK4hmBsFhp7O8mEaA76/view?usp=drive_link)
+![screenshot](https://drive.google.com/file/d/1HqdGMGlXD5rCl0wVLi0VFTHNG5p9SzU0/view?usp=drive_link)
+
+# Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E&style=for-the-badge)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?logo=chart.js&logoColor=white&style=for-the-badge)
